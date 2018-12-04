@@ -7,4 +7,4 @@ Trotzdem kann man seine Ruhe finden.
 Es gibt auch einen kleinen Park in der Nähe.
 Ein toller Ort!
 
-![Alt-Text] (\Users\Pargan\Documents\GitHub\k01622844\IMG_20181123_223847_287.png)
+![Alt-Text] (/Users/Pargan/Documents/GitHub/k01622844/IMG_20181123_223847_287.jpg)
